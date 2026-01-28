@@ -1,6 +1,6 @@
 // go to home link
 function goToHome() {
-    window.location.href = "/html/index.html";
+    window.location.href = "/";
 }
 
 
@@ -53,4 +53,5 @@ function scrollFunction() {
 function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
+
 }
